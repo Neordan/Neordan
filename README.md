@@ -1,14 +1,16 @@
+<h1 align="center">Mélhian</h1>
 <h3 align="center">Développeur back-end en chargement ...</h3>
+
+- 📄 À propos de mes expériences passés : J'ai une licence en banque, j'ai fais pas mal de petits boulots après mon diplôme car la banque n'était au final pas en adéquation avec mes valeurs. 
+- J'aime beaucoup les maths et la logique, et en repensant à mes cours de maths au lycée, la programmation sur la fameuse casio graphiq, les petits algo sur le lancé de dés ou celui de "es-tu majeur/ mineur ?" m'avaient fortement plu à l'époque. Donc j'ai fais des recherches sur internet sur le développement de site et j'ai décidé de mettre à fond sur les principes de base comme le HTML et le CSS, pour au final intégrer une formation bac+2 de développeur web et web mobile pour en apprendre plus sur le domaine.
 
 - 🌱 J'apprends actuellement **Symfony**
 
-- 👯 Mon premier projet de groupe, intégrant développement et gestion d'équipe s'appelle [Workskill](En privé pour le moment (confidentiel))
+- 👯 Mon premier projet de groupe, intégrant développement et gestion d'équipe s'appelle Workskill. (En privé pour le moment (confidentiel))
 
-- 👨‍💻 Vous pouvez visualiser certains de mes sites sur mon portfolio : [En construction](En construction)
+- 👨‍💻 Vous pouvez visualiser certains de mes sites sur mon portfolio : (En construction)
 
 - 📫 Vous pouvez me joindre sur : **melhian.adam@gmail.com**
-
-- 📄 À propos de mes expériences passés : [J'ai une licence en banque, j'ai fais pas mal de petits boulots après mon diplôme car la banque n'était au final pas en adéquation avec mes valeurs. J'aime beaucoup les maths et la logique, et en repensant à mes cours de maths au lycée, la programmation sur la fameuse casio graphiq, les petits algo sur le lancé de dés ou celui de "es-tu majeur/ mineur ?" m'avaient fortement plu à l'époque. Donc j'ai fais des recherches sur internet sur le développement de site et j'ai décidé de mettre à fond sur les principes de base comme le HTML et le CSS, pour au final intégrer une formation bac+2 de développeur web et web mobile pour en apprendre plus sur le domaine.](J'ai une licence en banque, j'ai fais pas mal de petits boulots après mon diplôme car la banque n'était au final pas en adéquation avec mes valeurs. J'aime beaucoup les maths et la logique, et en repensant à mes cours de maths au lycée, la programmation sur la fameuse casio graphiq, les petits algo sur le lancé de dés ou celui de "es-tu majeur/ mineur ?" m'avaient fortement plu à l'époque. Donc j'ai fais des recherches sur internet sur le développement de site et j'ai décidé de mettre à fond sur les principes de base comme le HTML et le CSS, pour au final intégrer une formation bac+2 de développeur web et web mobile pour en apprendre plus sur le domaine.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
