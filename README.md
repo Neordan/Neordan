@@ -37,4 +37,4 @@
 
 <br>
 <br> 
-<p align="center">Salut ! Je suis un développeur web/web mobile qui préfère le chocolat chaud au café. Dans ce monde, l'originalité peut faire la différence !<\p>
+<p align="center">Petit note d'humour : quel est le point commun entre un développeur et un vampire ? Ils ont tous les deux une aversion pour la lumière du jour !<\p>
