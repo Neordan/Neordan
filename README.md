@@ -37,4 +37,4 @@
 
 <br>
 <br> 
-<p align="center">Petit note d'humour : quel est le point commun entre un développeur et un vampire ? Ils ont tous les deux une aversion pour la lumière du jour !<\p>
+<p align="center">Petit note d'humour : quel est le point commun entre un développeur et un vampire ? Ils ont tous les deux une aversion pour la lumière du jour !</p>
