@@ -1,40 +1,79 @@
 <h1 align="center">Mélhian</h1>
-<h3 align="center">Développeur back-end en chargement ...</h3>
 
-<br>
+###
 
-<p align="center">Passionné par la technologie et toujours prêt à relever de nouveaux défis, je m'efforce d'apprendre de nouvelles compétences pour créer des solutions innovantes. J'aime travailler en équipe et partager mes connaissances avec les autres.</p>
-<p align="center">Mon objectif est de créer des applications Web performantes et sécurisées pour aider les entreprises à se développer et à améliorer leur présence en ligne.</p>
-<p align="center">N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou simplement pour échanger sur le développement Web !</p>
+<h3 align="center">Concepteur développeur d'applications en chargement ...</h3>
 
-<br>
+###
 
-🌱 J'apprends actuellement **Symfony**
+<br clear="both">
 
-👯 Mon premier projet de groupe, intégrant développement et gestion d'équipe s'appelle Workskill. (En privé pour le moment (confidentiel))
+<div align="center">
+  <img height="100" src="https://media.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif"  />
+</div>
 
-👨‍💻 Vous pouvez visualiser certains de mes sites sur mon portfolio : (En finalisation)
+###
 
-<br>
-<br>  
+<h6 align="center">Passionné par la technologie et toujours prêt à relever de nouveaux défis, je m'efforce d'apprendre de nouvelles compétences pour créer des solutions innovantes. J'aime travailler en équipe et partager mes connaissances avec les autres.<br><br>Mon objectif est de créer des applications Web performantes et sécurisées pour aider les entreprises à se développer et à améliorer leur présence en ligne.<br><br>N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou simplement pour échanger sur le développement Web !</h6>
 
-<h3 align="center">Vous pouvez me joindre sur:</h3>
+###
 
-<br>
+<br clear="both">
 
-<p align="center">
-<a href="https://linkedin.com/in/m%c3%a9lhian-adam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%c3%a9lhian-adam/" height="50" width="60" /></a></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" width="63" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" width="63" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" width="63" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" width="63" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" width="63" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="44" width="63" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="44" width="63" alt="chrome logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" width="63" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" width="63" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" width="63" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" width="63" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" width="63" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" width="63" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="44" width="63" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" width="63" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="44" width="63" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="44" width="63" alt="symfony logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" width="63" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="44" width="63" alt="wordpress logo"  />
+</div>
 
-<br>
-<br>
+###
 
-<h3 align="center">Langages & frameworks:</h3>
+<div align="center">
+  <a href="https://discord.com/channels/@Neordan#2601" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="41" alt="discord logo"  />
+  </a>
+  <a href="mailto:melhian.adam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="41" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/m%C3%A9lhian-adam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="41" alt="linkedin logo"  />
+  </a>
+</div>
 
-<br>
+###
 
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="120" height="120"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="120" height="120"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="120" height="120"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="120" height="120"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="100" height="100"/> </a> </p>
+<br clear="both">
 
+<div align="center">
+  <img height="185" src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif"  />
+</div>
 
-<br>
-<br> 
-<p align="center">Petit note d'humour : quel est le point commun entre un développeur et un vampire ? Ils ont tous les deux une aversion pour la lumière du jour !</p>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Neordan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Petit note d'humour : quel est le point commun entre un développeur et un vampire ? Ils ont tous les deux une aversion pour la lumière du jour !</h6>
+
+###
