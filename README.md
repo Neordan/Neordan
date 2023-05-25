@@ -1,6 +1,8 @@
+<h1 align="center"> Mélhian ADAM </h1>
+
 ###
 
-<h1 align="center">Concepteur développeur d'applications (DevOps) en chargement ...</h1>
+<h3 align="center">Concepteur développeur d'applications (DevOps) en chargement ...	</h3>
 
 ###
 
@@ -12,11 +14,13 @@
 
 ###
 
-<h5 align="center">Passionné par la technologie et toujours prêt à relever de nouveaux défis, je m'efforce d'apprendre de nouvelles compétences pour créer des solutions innovantes. J'aime travailler en équipe et partager mes connaissances avec les autres.<br><br>Mon objectif est de créer des applications Web performantes et sécurisées pour aider les entreprises à se développer et à améliorer leur présence en ligne.<br><br>N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou simplement pour échanger sur le développement Web !</h5>
+<h5 align="start">👨‍💻 Passionate about technology and always ready to take on new challenges, I strive to learn new skills to create innovative solutions. I enjoy working in a team and sharing my knowledge with others.<br>
+<br>🌐 My goal is to create high-performing and secure web applications to assist small businesses in growing and enhancing their online presence.<br>
+<br>✉️ Feel free to explore my projects and contact me to discuss collaborations or simply to engage in discussions about web development !</h5>
 
 ###
 
-Actuellement en train de me former sur React.js.
+Currently, I am training in React.
 
 ###
 
