@@ -1,8 +1,6 @@
-<h1 align="center">Mélhian</h1>
-
 ###
 
-<h3 align="center">Concepteur développeur d'applications en chargement ...</h3>
+<h1 align="center">Concepteur développeur d'applications (DevOps) en chargement ...</h1>
 
 ###
 
@@ -15,6 +13,10 @@
 ###
 
 <h5 align="center">Passionné par la technologie et toujours prêt à relever de nouveaux défis, je m'efforce d'apprendre de nouvelles compétences pour créer des solutions innovantes. J'aime travailler en équipe et partager mes connaissances avec les autres.<br><br>Mon objectif est de créer des applications Web performantes et sécurisées pour aider les entreprises à se développer et à améliorer leur présence en ligne.<br><br>N'hésitez pas à explorer mes projets et à me contacter pour discuter de collaborations ou simplement pour échanger sur le développement Web !</h5>
+
+###
+
+Actuellement en train de me former sur React.js.
 
 ###
 
