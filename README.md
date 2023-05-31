@@ -14,13 +14,13 @@
 
 ###
 
-<h5 align="start">👨‍💻 Passionate about technology and always ready to take on new challenges, I strive to learn new skills to create innovative solutions. I enjoy working in a team and sharing my knowledge with others.<br>
+<p align="start">👨‍💻 Passionate about technology and always ready to take on new challenges, I strive to learn new skills to create innovative solutions. I enjoy working in a team and sharing my knowledge with others.<br>
 <br>🌐 My goal is to create high-performing and secure web applications to assist small businesses in growing and enhancing their online presence.<br>
-<br>✉️ Feel free to explore my projects and contact me to discuss collaborations or simply to engage in discussions about web development !</h5>
+<br>✉️ Feel free to explore my projects and contact me to discuss collaborations or simply to engage in discussions about web development !</p>
 
 ###
 
-Currently, I am training in React.
+<p> Currently, I am training in<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" width="63" alt="react logo"  />. </p>
 
 ###
 
@@ -28,7 +28,6 @@ Currently, I am training in React.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" width="63" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" width="63" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" width="63" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" width="63" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="44" width="63" alt="bootstrap logo"  />
