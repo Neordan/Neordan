@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Concepteur développeur d'applications (DevOps) en chargement ...	</h3>
+<h3 align="center">Développeur d'applications (DevOps) en chargement ...	</h3>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p> Currently, I am training in<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" width="63" alt="react logo"  />. </p>
+<p> Currently, I am training in NodeJS. </p>
 
 ###
 
